@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ali nasiri</h1></br>
 <h3 align="center">I am a computer engineering student and an Android operating system developer</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codeing" width="350" align="right" /><br><br>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="codeing" width="300" align="right" /><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-nasiri-80&label=Profile%20views&color=0e75b6&style=flat" alt="ali-nasiri-80" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kofe_bor" target="blank"><img src="https://img.shields.io/twitter/follow/kofe_bor?logo=twitter&style=for-the-badge" alt="kofe_bor" /></a> </p>
